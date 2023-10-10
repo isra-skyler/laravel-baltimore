@@ -155,7 +155,7 @@ app.get('/orders/:id', async (req, res) => {
 
 This sets the stage for a compliant JSON:API implementation that connects resources through standardized linkage.
 
-# In Conclusion
+## In Conclusion
 To summarize, adhering to established API specifications brings structure, discoverability, and future-proofing to applications in the face of changing demands. Conforming to standards ensures that services remain intuitive.
 
 Developing complex, interconnected backends in accordance with these specifications requires expertise across multiple technical disciplines. To streamline this process, partnering with a proficient Node.js vendor can be invaluable.
